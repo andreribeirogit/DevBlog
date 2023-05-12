@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Dancing;
+    src: url("../fonts/Dancing_Script/static/DancingScript-Regular.ttf");
+    font-weight: normal;
+}
+*{
+    font-family: Dancing;
+}
+body{
+    background-color: rgb(225, 247, 247);
+}
+*n1{
+    width: 10px;
+    height: 8px;
+    background-color: rgb(45, 45, 190);
+    color: black;
+}
